@@ -33,11 +33,9 @@ Se deben seguir los siguientes pasos:
       
       3.4. Correr todo el código
 
-## 3. Autores
+## 3.Reporte
 
-- **Brenda Jiménez**
-- **Guillermo Zarazúa**
-
+https://bcjg23.github.io/ILE_CDMX_2019_Parte2/Interpretabilidad_Auditoria_ILE_Reporte.html
 
 
 
